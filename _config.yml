@@ -2,7 +2,7 @@ title: Everettquebral.GitHub.io
 description: 
 google_analytics: UA-12759127-1
 show_downloads: true
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
 
 gems:
   - jekyll-mentions
